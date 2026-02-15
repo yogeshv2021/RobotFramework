@@ -1,0 +1,14 @@
+#############-->>MGTS Server Details <--################
+MGTS_HOST = "192.168.151.14"
+MGTS_USERNAME = "at_vas"
+MGTS_PASSWORD = "!est!23"
+MGTS_PROMPT = "MGTS$"
+MGTS_STARTPROMPT = ">"
+MGTS_ALIAS = "MGTS_SERVER"
+MGTS_SHELF = "MGTS5047-16"
+MGTS_ENV = "mgts_im3_env"
+MGTS_NODE = "Node1"
+SMSTAT = "CONT"
+SM_DURATION = 2
+SM_RANGE = 500
+MGTS_LOGPATH = "/home/at_vas/MGTS_RESULTS/"
